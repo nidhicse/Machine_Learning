@@ -5,11 +5,11 @@
 
 ## 📑 Portfolio Index
 
-| # | Project Name | Domain / Type | Primary Techniques | Top Model | Key Metric | Directory |
+| # | Project Name | Domain / Type | Primary Techniques | Directory |
 | :-: | :--- | :--- | :--- | :--- | :--- | :-: |
-| 01 | **Titanic Survival** | Binary Classification | Missing value imputation, Title extraction, One-Hot Encoding | Random Forest | Accuracy: `~82%` | [Open Folder](./titanic/) |
-| 02 | *Upcoming* | — | — | — | — | — |
-| 03 | *Upcoming* | — | — | — | — | — |
+| 01 | **Titanic Survival** | Binary Classification | Conditional imputation, Mean imputation, Feature selection, One-Hot Encoding| ./Titanic-Dataset/ |
+| 02 | *Upcoming* | — | — | — |
+| 03 | *Upcoming* | — | — | — | 
 
 ## 🛠️ Core Tech Stack
 

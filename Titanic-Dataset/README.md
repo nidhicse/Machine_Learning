@@ -1,1 +1,11 @@
-This project involved building a predictive model to determine passenger survival on the Titanic using the famous Kaggle dataset. The workflow included extensive data cleaning, exploratory data analysis (EDA), feature engineering (e.g., handling missing values, encoding categorical variables), and implementing classification algorithms such as Logistic Regression, Decision Trees, and Random Forests. The models were evaluated using accuracy, confusion matrix, and cross-validation techniques. The final model achieved a strong performance, offering insights into the most influential factors affecting survival, such as gender, passenger class, and fare.This project involved building a predictive model to determine passenger survival on the Titanic using the famous Kaggle dataset. The workflow included extensive data cleaning, exploratory data analysis (EDA), feature engineering (e.g., handling missing values, encoding categorical variables), and implementing classification algorithms such as Logistic Regression, Decision Trees, and Random Forests. The models were evaluated using accuracy, confusion matrix, and cross-validation techniques. The final model achieved a strong performance, offering insights into the most influential factors affecting survival, such as gender, passenger class, and fare.
+# 🚢 Titanic Passenger Survival Prediction
+
+This project focuses on building a predictive model to determine passenger survival on the Titanic using the famous Kaggle dataset. 
+
+### 🛠️ Workflow & Methodology
+* **Data Processing:** Performed extensive data cleaning, exploratory data analysis (EDA), and feature engineering (e.g., handling missing values and encoding categorical variables).
+* **Modeling:** Implemented baseline classification algorithm- Logistic Regression.
+* **Evaluation:** Assessed model robustness and performance using accuracy scores, confusion matrices, and cross-validation techniques.
+
+### 🏆 Results & Insights
+The final model achieved strong predictive performance, highlighting the most influential factors that affected a passenger's chances of survival: **gender**, **passenger class**, and **fare**.

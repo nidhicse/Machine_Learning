@@ -1,3 +1,4 @@
+## 📈 Linear Regression Implementations
 Apply Single Variable/ Multivariable Linear Regression on the following:
 
 A. For canada per capita income calculate per capita income for year 2020
